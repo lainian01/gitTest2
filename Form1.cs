@@ -21,6 +21,7 @@ namespace gitTest2
         {
             MessageBox.Show("hello world!!");
             Console.WriteLine("test");
+            Console.WriteLine("test2");
         }
     }
 }
